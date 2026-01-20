@@ -8,6 +8,32 @@ Prueba Técnica Misión XM - Análisis de datos del mercado eléctrico colombian
 
 ---
 
+## Instalación
+
+### Requisitos
+- Python >= 3.13
+
+### Crear entorno virtual y activar
+
+```bash
+# Crear entorno virtual
+python -m venv venv
+
+# Activar entorno (Linux/Mac)
+source venv/bin/activate
+
+# Activar entorno (Windows)
+venv\Scripts\activate
+```
+
+### Instalar dependencias
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
 ## Estructura del Proyecto
 
 Prueba-XM/
